@@ -1,4 +1,9 @@
 # Law-Website(index.html is main file)
+
+
+website link:
+https://magnificent-unicorn-a6286e.netlify.app/
+
 ![image](https://github.com/keshav861/Law-Website/assets/94895949/97cff2b6-f4bb-42b3-aa7a-66e29b4e0f92)
 
 ![image](https://github.com/keshav861/Law-Website/assets/94895949/b054d99d-879a-41cd-b953-7462f5bfc59e)
